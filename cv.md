@@ -2,7 +2,7 @@
 
 ![Image text](https://github.com/VikelBerya/codewars-solves/blob/main/TalUcSCRWaE.jpg)  
 
-Сontacts: Email: vikel-rostov@mail.ru, Discord Name: Viktoria Berya @VikelBerya.
+Сontacts: Email: *vikel-rostov@mail.ru*, Discord Name: *Viktoria Berya @VikelBerya*.
 
 
 At the moment, my goal is to develop in front-end development, because I am very interested in this area. 
