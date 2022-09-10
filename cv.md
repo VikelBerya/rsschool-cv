@@ -8,7 +8,7 @@
 At the moment, my goal is to develop in front-end development, because I am very interested in this area. 
 Among my strengths, I can single out sociability, responsibility, developed emotional intelligence and creativity.
 In 2020, I won a cash grant from my university to organize my own project aimed at teaching first-year students in soft skills, which was subsequently successfully implemented.
-I'm currently learning JavaScript. Example of a solved problem from Codewars (Square Every Digit):
+I'm currently learning JavaScript. Example of a solved problem from Codewars (*Square Every Digit*):
 
 ```
 function numToSquare(num) {
