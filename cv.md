@@ -1,6 +1,6 @@
 **Viktoria Berenshtein.**
 
-![Image text](https://github.com/VikelBerya/codewars-solves/blob/main/TalUcSCRWaE.jpg)  
+![Image text](https://github.com/VikelBerya/codewars-solves/blob/dc673a6614fbdee05669d9674583598c428f4e74/TalUcSCRWaE.jpg?raw=true)
 
 Сontacts: Email: *vikel-rostov@mail.ru*, Discord Name: *Viktoria Berya @VikelBerya*.
 
